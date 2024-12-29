@@ -1,6 +1,6 @@
 pandas
 numpy
-matplotlib-base
+matplotlib
 seaborn
 plotly
 openpyxl
