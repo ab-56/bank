@@ -50,7 +50,8 @@ sns.heatmap(
     fmt='.2f',           
     cmap='YlGnBu',       
     cbar_kws={'label': 'Transaction Amount'} 
-)plt.title('Transaction Intensity by Region')
+)
+plt.title('Transaction Intensity by Region')
 plt.xlabel('Transaction Type')
 plt.ylabel('Region')
 plt.tight_layout()
